@@ -5,8 +5,8 @@
 instance_list=$1
 
 DATE=`date +%Y%m%d-%H`
-From="autoami@tejdrive.com "
-To="Cloud.Consumer.DevOps@ril.com"
+From="abc@gmail.com "
+To="xyz@gmail.com"
 mail_body=/tmp/ami_report
 echo -e "----------------------------------\n   `date`   \n----------------------------------" > $mail_body
 
